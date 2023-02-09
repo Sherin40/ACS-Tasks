@@ -1,0 +1,18 @@
+/*To avoid overlapping of text and image use float property instead of position property*/
+img {
+  float: right;
+  max-width: 400px;
+  height: 200px;
+}
+
+body {
+  background: pink;
+}
+
+.top-half {
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
