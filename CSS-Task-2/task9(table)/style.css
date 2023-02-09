@@ -1,0 +1,13 @@
+
+th {
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid rgb(170, 167, 167);
+  }
+
+  p{font-style: italic;
+    text-align :center;}
+table{position: absolute;
+left:30%;
+}
