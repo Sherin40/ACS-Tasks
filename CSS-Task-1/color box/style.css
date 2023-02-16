@@ -1,11 +1,7 @@
+body{background-color: rgb(199, 193, 193);}
+
 .colorbox {
-  background-color: rgb(199, 193, 193);
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  margin-left: 300px;
-  margin-right: 300px;
+  padding:15px;
 }
 
 .row1,
@@ -91,6 +87,6 @@
 }
 
 .row6 {
-  height: 20px;
+  height: 30px;
   background: rgb(59, 17, 1);
 }
