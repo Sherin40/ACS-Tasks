@@ -4,89 +4,89 @@ body{background-color: rgb(199, 193, 193);}
   padding:15px;
 }
 
-.row1,
-.row3,
-.row4 {
+.rowone,
+.rowthree,
+.rowfour {
   height: 90px;
   display: flex;
   margin-bottom: 20px;
 }
 
-.row5 {
+.rowfive {
   height: 60px;
   display: flex;
   margin-bottom: 20px;
 }
 
-.row1 .a {
+.rowone .a {
   background: rgb(189, 10, 10);
   width: 30%;
   margin-right: 20px;
 }
 
-.row1 .b {
+.rowone .b {
   background: rgb(28, 28, 158);
   width: 70%;
 }
 
-.row2 {
+.rowtwo {
   height: 150px;
   background: rgb(170, 126, 5);
   margin-bottom: 20px;
 }
 
-.row3 .a {
+.rowthree .a {
   background: rgb(12, 185, 12);
   width: 33%;
   margin-right: 20px;
 }
 
-.row3 .b {
+.rowthree .b {
   background: rgb(150, 6, 150);
   width: 34%;
   margin-right: 20px;
 }
 
-.row3 .c {
+.rowthree .c {
   width: 33%;
   background: rgb(82, 27, 185);
 }
 
-.row4 .a {
+.rowfour .a {
   background: rgb(185, 67, 11);
   width: 50%;
   margin-right: 20px;
 }
 
-.row4 .b {
+.rowfour .b {
   width: 50%;
   background: rgb(201, 172, 7);
 }
 
-.row5 .a {
+.rowfive .a {
   background: rgb(20, 134, 5);
   width: 25%;
   margin-right: 20px;
 }
 
-.row5 .b {
+.rowfive .b {
   background: rgb(28, 124, 233);
   width: 25%;
   margin-right: 20px;
 }
 
-.row5 .c {
+.rowfive .c {
   background: rgb(148, 38, 4);
   width: 25%;
   margin-right: 20px;
 }
 
-.row5 .d {
+.rowfive .d {
   width: 25%;
   background: rgb(8, 8, 206);
 }
 
-.row6 {
+.rowsix {
   height: 30px;
   background: rgb(59, 17, 1);
 }
